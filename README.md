@@ -1,4 +1,4 @@
-## Next.js Blog
+# Next.js Blog
 
 Built in October 2020. A workflow tutorial from the official site of Next.js.
 
