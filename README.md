@@ -1,6 +1,6 @@
 # Next.js Blog
 
-Built in October 2020. A workflow tutorial from the official site of Next.js.
+Built in October 2020. A workflow tutorial from the official site of Next.js. Tutorial code from the official Next.js site: https://nextjs.org/learn/basics/create-nextjs-app 
 
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
