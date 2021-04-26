@@ -1,7 +1,11 @@
 {
-  "name": "learn-starter",
+  "name": "nextjs-blog",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/nextjs-blog.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

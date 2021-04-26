@@ -1,12 +1,21 @@
 {
     "cSpell.words": [
+        "Assayag",
         "Fassets",
         "Fdesign",
         "Ffront",
         "Fimage",
         "Fnextjs",
         "Fupload",
+        "nextjs",
         "orassayag",
         "vercel"
-    ]
+    ],
+    "cSpell.ignorePaths": [
+        "**/.next",
+        ".next/**",
+        "**/.next/**",
+        "package-lock.json"
+    ],
+    "formatFiles.excludePattern": "**.git/,**/.git/**,**/node_modules,**/node_modules/**,**/.vscode,**/.vscode/**,**/.next,**/.next/**"
 }
