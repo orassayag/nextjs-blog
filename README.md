@@ -1,6 +1,6 @@
 # Next.js Blog
 
-Built in October 2020. A workflow tutorial from the official site of Next.js. Tutorial code from the official Next.js site: https://nextjs.org/learn/basics/create-nextjs-app
+Built in October 2020. A workflow tutorial from the official site of Next.js. The tutorial code from the official Next.js site: https://nextjs.org/learn/basics/create-nextjs-app
 
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
@@ -8,13 +8,13 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 Clone the project to your computer.
 Steps to view the solution:
-1. Open server project on IDE (I used VS CODE).
-2. Terminal: npm start.
+1. Open server project on IDE (I used VSCode).
+2. In the terminal: npm start.
 Happy testing! :)
 
 ### Prerequisites
 
-You'll need to install VS Code, Node, and clone the project, run npm i + node index.js
+You'll need to install VSCode, Node, and clone the project, and in the terminal run npm i + node index.js
 
 ## Built With
 
@@ -34,7 +34,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 * Or Assayag <orassayag@gmail.com>
 * GitHub: https://github.com/orassayag
 * StackOverFlow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://il.linkedin.com/in/orassayag
+* LinkedIn: https://linkedin.com/in/orassayag
 
 ## License
 
