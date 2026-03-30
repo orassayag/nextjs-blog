@@ -1,11 +1,30 @@
 {
   "name": "nextjs-blog",
   "version": "0.1.0",
+  "description": "A simple, elegant blog application built with Next.js demonstrating Static Site Generation (SSG), file-based routing, and Markdown-based content management",
   "private": false,
+  "license": "MIT",
+  "author": {
+    "name": "Or Assayag",
+    "email": "orassayag@gmail.com",
+    "url": "https://github.com/orassayag"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/orassayag/nextjs-blog.git"
   },
+  "keywords": [
+    "nextjs",
+    "blog",
+    "static-site-generation",
+    "ssg",
+    "markdown",
+    "react",
+    "frontend",
+    "jamstack",
+    "tutorial",
+    "personal-blog"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
