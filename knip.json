@@ -1,0 +1,12 @@
+{
+  "entry": [
+    "src/next.config.{js,jsx,ts,tsx}",
+    "backup/**/*.{js,jsx,tsx}",
+    "components/**/*.{js,jsx,tsx}",
+    "lib/**/*.{js,jsx,tsx}",
+    "pages/**/*.{js,jsx,tsx}",
+    "posts/**/*.js",
+    "public/**/*.{js,ts}"
+  ],
+  "project": ["pages/**/*.{js,jsx,tsx}"]
+}

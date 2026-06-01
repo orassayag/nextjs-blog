@@ -1,18 +1,8 @@
 {
   "name": "nextjs-blog",
   "version": "0.1.0",
-  "description": "A simple, elegant blog application built with Next.js demonstrating Static Site Generation (SSG), file-based routing, and Markdown-based content management",
   "private": false,
-  "license": "MIT",
-  "author": {
-    "name": "Or Assayag",
-    "email": "orassayag@gmail.com",
-    "url": "https://github.com/orassayag"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/orassayag/nextjs-blog.git"
-  },
+  "description": "A Node.js application that scans file names, directory paths, and file contents for spelling mistakes and generates detailed reports. Built to help developers maintain consistent, error-free naming conventions across projects, using dictionaries from cspell-dicts for accurate spell checking",
   "keywords": [
     "nextjs",
     "blog",
@@ -25,9 +15,61 @@
     "tutorial",
     "personal-blog"
   ],
+  "homepage": "https://github.com/orassayag/nextjs-blog#readme",
+  "bugs": {
+    "url": "https://github.com/orassayag/nextjs-blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/orassayag/nextjs-blog.git"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/orassayag"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Or Assayag",
+    "email": "orassayag@gmail.com",
+    "url": "https://github.com/orassayag"
+  },
+  "contributors": [
+    {
+      "name": "Or Assayag",
+      "email": "orassayag@gmail.com",
+      "url": "https://github.com/orassayag"
+    }
+  ],
+  "type": "commonjs",
+  "main": "pages/index.js",
+  "files": [
+    ".github",
+    ".vscode",
+    "backup",
+    "components",
+    "lib",
+    "pages",
+    "posts",
+    "public",
+    "styles",
+    ".eslintrc.js",
+    ".gitignore",
+    ".prettierrc",
+    "CHANGELOG.md",
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "INSTRUCTIONS.md",
+    "knip.json",
+    "LICENSE",
+    "next.config.js",
+    "package-lock.json",
+    "package.json",
+    "README.md",
+    "SECURITY.md"
+  ],
   "scripts": {
-    "dev": "next dev",
     "build": "next build",
+    "dev": "next dev",
     "start": "next start",
     "stop": "taskkill -f -im node.exe"
   },
@@ -37,7 +79,6 @@
     "date-fns": "^2.16.1",
     "eslint": "^7.14.0",
     "eslint-plugin-react": "^7.21.5",
-    "fs": "0.0.1-security",
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
     "react": "16.13.1",

@@ -6,7 +6,7 @@ const Alert = ({ children, type }) => {
     <div
       className={cn({
         [styles.success]: type === 'success',
-        [styles.error]: type === 'error'
+        [styles.error]: type === 'error',
       })}
     >
       {children}
